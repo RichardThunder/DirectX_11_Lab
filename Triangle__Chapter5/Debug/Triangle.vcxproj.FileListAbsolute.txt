@@ -1,0 +1,8 @@
+D:\code\Triangle\Debug\Triangle.exe
+D:\code\Triangle\Debug\Triangle.pdb
+D:\code\DirectX_Lab\Triangle\Debug\Triangle.exe
+D:\code\DirectX_Lab\Triangle\Debug\Triangle.pdb
+D:\Source_Code\DirectX_Lab\Triangle__Chapter5\Debug\Triangle.exe
+D:\Source_Code\DirectX_Lab\Triangle__Chapter5\Debug\Triangle.pdb
+D:\Source_Code\DirectX11_Lab\DirectX_Lab\Triangle__Chapter5\Debug\Triangle_Chapter5.exe
+D:\Source_Code\DirectX11_Lab\DirectX_Lab\Triangle__Chapter5\Debug\Triangle_Chapter5.pdb

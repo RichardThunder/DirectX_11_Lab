@@ -1,0 +1,2 @@
+D:\Source_Code\DirectX11_Lab\DirectX_Lab\DirectXSample\Debug\DirectXSample.exe
+D:\Source_Code\DirectX11_Lab\DirectX_Lab\DirectXSample\Debug\DirectXSample.pdb

@@ -1,0 +1,2 @@
+D:\Source_Code\DirectX11_Lab\DirectX_Lab\InitD3D_Chapter4\Debug\InitD3D_Chapter4.exe
+D:\Source_Code\DirectX11_Lab\DirectX_Lab\InitD3D_Chapter4\Debug\InitD3D_Chapter4.pdb
